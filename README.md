@@ -131,7 +131,7 @@ This improves transparency and trust, critical in healthcare systems.
 🎯 Interview-ready project
 
 📄 Resume-Ready Description :
-# Built a hospital queue management backend using PriorityQueue and aging-based scheduling to ensure fair and efficient patient triage, with MySQL persistence and real-time queue monitoring APIs.
+Built a hospital queue management backend using PriorityQueue and aging-based scheduling to ensure fair and efficient patient triage, with MySQL persistence and real-time queue monitoring APIs.
 
 📌 Future Enhancements :
 - Multi-doctor serving
